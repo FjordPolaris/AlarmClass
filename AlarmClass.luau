@@ -105,7 +105,7 @@ end
 --// Functions
 
 function Alarm.GetAlarms(Object: Model, Tag: string): {Alarm}
-  if (not Tag) then warn("No tag given in GetAlarms method") return end
+  	if (not Tag) then warn("No tag given in GetAlarms method") return end
 	local Alarms = {}
 
 	for _, alarm in next, Object:GetDescendants() do
