@@ -37,4 +37,4 @@ local myAlarm: Alarm = AlarmClass.new(path_to_alarm_model)
 
 ## Contacts
 - Discrd: autumn_fj
-- Servr: https://discord.gg/6GqJvn7Wa2
+- Server: https://discord.gg/6GqJvn7Wa2
