@@ -89,7 +89,7 @@ function Alarm:Activate()
 	self.Light.Enabled = true
 	self.Sound:Play()
   
-  self:_AdjustLensTransparency(0.5)
+  	self:_AdjustLensTransparency(0.5)
 end
 
 function Alarm:Deactivate()
@@ -99,7 +99,7 @@ function Alarm:Deactivate()
 	self.Light.Enabled = false
 	self.Sound:Stop()
 
-  self:_AdjustLensTransparency(0.3)
+  	self:_AdjustLensTransparency(0.3)
 end
 
 --// Functions
