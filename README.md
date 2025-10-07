@@ -5,7 +5,7 @@ An open source OOP spinning alarm class in Roblox for anyone to use
 - `?` = Optional parameter
 - `|` = Union type
 - `->` = Function's return type
-- `-> {Something}` = Return a table of Seomthing
+- `-> {Something}` = Returns a table of Seomthing
 
 **Class Functions**
 - `.new(Object: Model, SpinSpeed: number?, SoundId: string | number?) -> Alarm`
