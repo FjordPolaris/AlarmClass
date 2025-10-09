@@ -4,6 +4,7 @@ An open source OOP spinning alarm class in Roblox for anyone to use
 ## API
 - `?` = Optional parameter
 - `|` = Union type
+- `?` = Optional type (nil is possible)
 - `->` = Function's return type
 - `-> {Something}` = Returns a table of Seomthing
 
